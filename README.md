@@ -14,7 +14,7 @@ ___
 
 In order to run this app, you must do the following in sequence:
  - [ ] Open the solution in VS code
- - [ ] Launch  terminal within VS code and execute `npm install`
+ - [ ] Launch terminal within VS code and execute `npm install typescript sass gulp gulp-typescript gulp-sass`
  - [ ] Press F5 to launch the app in browser
 
 ___
