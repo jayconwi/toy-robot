@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toy Robot Challenge</title>
+    <link href="dist/style.css" rel="stylesheet"/>
+</head>
+<body>
+    <canvas class="grid" id="grid" width="250" height="250"></canvas>
+
+    <div class="tools">
+        <div class="command">
+            <button id="place">PLACE</button>
+            <input type="text" id="coords" value="2,2" />
+            <select id="direction">
+                <option>NORTH</option>
+                <option>EAST</option>
+                <option>SOUTH</option>
+                <option>WEST</option>
+            </select>
+        </div>
+        <div class="command">
+            <button id="move">MOVE</button>
+        </div>
+        <div class="command">
+            <button id="left">LEFT</button>
+        </div>
+        <div class="command">
+            <button id="right">RIGHT</button>
+        </div>
+        <div class="command">
+            <button id="report">REPORT</button>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="dist/app.js"></script>
+</body>
+</html>
