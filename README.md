@@ -7,18 +7,22 @@ The UI is not provided via CLI, but it was expanded in HTML
 and the commands are represented as HTML controls.
 
 ___
+
 **Steps to run the solution:** 
+ 
  Note: This is preconfigured to compile using gulp and launch in a browser. 
 
 In order to run this app, you must do the following in sequence:
  - [ ] Open the solution in VS code
  - [ ] Launch  terminal within VS code and execute `npm install`
  - [ ] Press F5 to launch the app in browser
+
 ___
+
 **Instructions:**
  - [ ] You are required to simulate a toy robot moving on a square
        tabletop, of dimensions 5 units x 5 units. 
- - [ ] LThere are no other obstructions on the table surface. The robot is free to roam
+ - [ ] There are no other obstructions on the table surface. The robot is free to roam
        around the surface of the table, but must be prevented from
        falling to destruction. 
  - [ ] Any movement that would result in the robot falling from the table must be prevented, however further
@@ -31,8 +35,11 @@ ___
        engineer, comment and test as much as possible. 
  - [ ] Include a README file with instructions on how to build/compile your solution and how to run it. 
  - [ ] Share your code via a public GitHub repository, [git bundle](https://git-scm.com/docs/git-bundle) or zip file.
+
 ___
+
 **Commands:**
+
 Note: All commands should provide output indicating whether or not they succeeded.
 - **PLACE X,Y,DIRECTION**  
 X and Y are integers that indicate a location on the tabletop.
