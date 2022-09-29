@@ -2,7 +2,7 @@
 const gulp = require('gulp');
 const ts = require('gulp-typescript');
 const sass = require('gulp-sass')(require('sass'));
-const uglify = require('gulp-uglify');
+//const uglify = require('gulp-uglify');
 
 const tsBuild = () => {
     return gulp
