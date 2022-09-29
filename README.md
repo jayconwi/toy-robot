@@ -10,7 +10,7 @@ ___
 
 **Steps to run the solution:** 
  
- Note: This is preconfigured to compile using gulp and launch in a browser. 
+ Note: This is preconfigured to compile using gulp and launch in a browser - please ensure you have Edge. 
 
 In order to run this app, you must do the following in sequence:
  - [ ] Open the solution in VS code
