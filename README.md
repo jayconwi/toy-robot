@@ -1,9 +1,9 @@
 
 
 ## **Toy Robot Coding Challenge**
-This solution was built as my entry point in a potential career role in a company.
+This solution was built as my entry point in a potential career role.
 
-The UI is not provided via CLI, but it was expanded in HTML 
+As allowed in the instructions, I expanded the UI using HTML 
 and the commands are represented as HTML controls.
 
 ___
