@@ -138,7 +138,7 @@ const right = () => {
 // Displays the current direction and position of the robot on the table
 const report = () => {
     if (!robotPlaced) { 
-        console.log("Command: RIGHT - Failed");
+        console.log("Command: REPORT - Failed");
         return; 
     }
 
